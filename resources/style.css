@@ -3,6 +3,42 @@
   margin: 0;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { 
+  font-size: 11px; text-align: center; 
+  margin-top: 15px;
+}
+
 .attribution a { color: hsl(228, 45%, 44%); }
 
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color:  hsl(212, 45%, 89%);
+}
+
+.card_container {
+  width: 300px;
+  background-color: hsl(0, 0%, 100%);
+  margin: auto auto;
+  border-radius: 15px;
+  margin-top: 150px;
+}
+
+.card_container img {
+  width: 260px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.card_container h3 {
+  padding: 0 20px 20px 20px;
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+
+.card_container p {
+  padding: 0 30px 40px 30px;
+  text-align: center;
+  font-size: 15px;
+
+  color: hsl(220, 15%, 55%);
+}
