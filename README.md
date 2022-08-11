@@ -27,10 +27,12 @@ Above is a screenshot of the completed project on desktop.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/thejayswan/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://thejayswan.github.io/qr-code-component-main/)
 
 ## My process
+
+Started with the appropriate HTML page requirements and then began to layer in the CSS design elements.
 
 ### Built with
 
@@ -40,30 +42,17 @@ Above is a screenshot of the completed project on desktop.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+I enjoyed this project.  It seemed like I may have used the most simple solution to complete the outcome; however, it seems relavent to desired outcome.
 
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I would like to revisit this and utilize some responsive design and @media to create the final product.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@thejayswan](https://www.frontendmentor.io/profile/thejayswan)
 - Twitter - [@thejayswan](https://www.twitter.com/thejayswan)
 
